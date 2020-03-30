@@ -1,0 +1,11 @@
+,settings,80,70
+init Critical Cases,0,0,0
+init Infected asymptomatic,1,0,1
+init Isolated,0,0,0
+init accumulated loss of producitivity,0,0,0
+init Diseased,0,0,0
+init Infected symptomatic,0,0,0
+init Recovered,0,0,0
+init available test kits,0,0,0
+init Susceptible,8000000,4000000,4000000
+init accumulated cases,0,0,0
